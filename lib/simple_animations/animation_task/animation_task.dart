@@ -1,5 +1,5 @@
 import 'package:flutter_web/widgets.dart';
-import 'package:simple_animations/simple_animations.dart';
+import 'package:simple_animations_web/simple_animations.dart';
 
 /// Abstract class that represents a single animation task that can be processed
 /// inside an [AnimationControllerX].

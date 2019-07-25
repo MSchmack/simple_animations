@@ -1,7 +1,7 @@
 import 'package:flutter_web/animation.dart';
 import 'package:flutter_web/scheduler.dart';
 
-import 'package:simple_animations/simple_animations.dart';
+import 'package:simple_animations_web/simple_animations.dart';
 
 /// An powerful implementation of Flutter's [AnimationController] that will work with
 /// an [AnimationTask] queue to execute complex custom animations easily.

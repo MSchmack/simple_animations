@@ -1,7 +1,7 @@
 import 'package:flutter_web/foundation.dart';
 import 'package:flutter_web/scheduler.dart';
 import 'package:flutter_web/widgets.dart';
-import 'package:simple_animations/simple_animations/animation_controller_x/animation_controller_x.dart';
+import 'package:simple_animations_web/simple_animations/animation_controller_x/animation_controller_x.dart';
 
 /// Adds an [AnimationControllerX] to your widget state.
 ///

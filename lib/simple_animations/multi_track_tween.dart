@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 /// Animatable that tweens multiple parallel properties (called [Track]s).
 /// ---

@@ -1,5 +1,5 @@
-import 'package:flutter/scheduler.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/scheduler.dart';
+import 'package:flutter_web/widgets.dart';
 
 /// Widget to easily create a continuous animation.
 ///

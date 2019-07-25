@@ -1,5 +1,5 @@
-import 'package:flutter/animation.dart';
-import 'package:flutter/scheduler.dart';
+import 'package:flutter_web/animation.dart';
+import 'package:flutter_web/scheduler.dart';
 
 import 'package:simple_animations/simple_animations.dart';
 

@@ -1,4 +1,4 @@
-# Simple Animations
+# Simple Animations Web
 
 [![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://github.com/Solido/awesome-flutter)
 [![Build status](https://dev.azure.com/felix0418/Simple%20Animations/_apis/build/status/CI%20Testing)](https://dev.azure.com/felix0418/Simple%20Animations/_build/latest?definitionId=1)

@@ -30,7 +30,7 @@ packages:
     source: hosted
     version: "1.14.11"
   flutter:
-    dependency: "direct main"
+    dependency: transitive
     description: flutter
     source: sdk
     version: "0.0.0"
@@ -39,6 +39,31 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_web:
+    dependency: "direct main"
+    description:
+      path: "packages/flutter_web"
+      ref: HEAD
+      resolved-ref: "1b9477bd041f3667445c1cb0a202972fe234ba86"
+      url: "https://github.com/flutter/flutter_web"
+    source: git
+    version: "0.0.0"
+  flutter_web_ui:
+    dependency: "direct main"
+    description:
+      path: "packages/flutter_web_ui"
+      ref: HEAD
+      resolved-ref: "1b9477bd041f3667445c1cb0a202972fe234ba86"
+      url: "https://github.com/flutter/flutter_web"
+    source: git
+    version: "0.0.0"
+  intl:
+    dependency: transitive
+    description:
+      name: intl
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.15.8"
   matcher:
     dependency: transitive
     description:

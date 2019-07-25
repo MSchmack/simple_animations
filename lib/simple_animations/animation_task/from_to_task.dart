@@ -1,7 +1,7 @@
 import 'dart:math';
 
-import 'package:flutter/animation.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/animation.dart';
+import 'package:flutter_web/widgets.dart';
 
 import 'animation_task.dart';
 

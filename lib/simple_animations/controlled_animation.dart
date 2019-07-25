@@ -1,4 +1,4 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 /// Playback tell the controller of the animation what to do.
 enum Playback {
